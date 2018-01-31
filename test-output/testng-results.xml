@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Regression" duration-ms="14984" started-at="2018-01-31T04:20:33Z" finished-at="2018-01-31T04:20:48Z">
+  <suite name="Default suite" duration-ms="26248" started-at="2018-01-31T19:29:09Z" finished-at="2018-01-31T19:29:35Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="14984" started-at="2018-01-31T04:20:33Z" finished-at="2018-01-31T04:20:48Z">
+    <test name="Default test" duration-ms="26248" started-at="2018-01-31T19:29:09Z" finished-at="2018-01-31T19:29:35Z">
       <class name="config.TestConfig">
-        <test-method status="PASS" signature="startTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="startTest" duration-ms="14968" started-at="2018-01-30T22:20:33Z" finished-at="2018-01-30T22:20:48Z">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="startTest" duration-ms="26172" started-at="2018-01-31T13:29:09Z" finished-at="2018-01-31T13:29:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
       </class> <!-- config.TestConfig -->
-    </test> <!-- Regression -->
-  </suite> <!-- Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

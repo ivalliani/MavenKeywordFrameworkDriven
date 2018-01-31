@@ -111,6 +111,11 @@ public class TestConfig {
 		if (object_type.equalsIgnoreCase("typeSelect"))
 		{
 			SelectEvents.typeSelect(driver, locator_type, locator_value, testData);
+			try {
+				logger.log(LogStatus.INFO, logger.addScreenCapture(typeScreenShots.captureScreenShots(driver, "ScreenShot")));
+			} catch (IOException e) {
+				e.getMessage();
+			}
 		}
 		
 		if(object_type.equalsIgnoreCase("click"))
