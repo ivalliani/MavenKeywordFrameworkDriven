@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="14984" started-at="2018-01-31T04:20:33Z" finished-at="2018-01-31T04:20:48Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="14984" started-at="2018-01-31T04:20:33Z" finished-at="2018-01-31T04:20:48Z">
+      <class name="config.TestConfig">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:config.TestConfig@7dc7cbad]" name="startTest" duration-ms="14968" started-at="2018-01-30T22:20:33Z" finished-at="2018-01-30T22:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- config.TestConfig -->
+    </test> <!-- Regression -->
+  </suite> <!-- Regression -->
+</testng-results>
